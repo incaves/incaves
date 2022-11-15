@@ -20,7 +20,6 @@ Vue3 React Typescript Canvas...
 <img width='50' height='50' title='vite' style='margin-left:15px;' src='skill/vite.png' />
 <img width='50' height='50' title='vue' style='margin-left:15px;' src='skill/vue.png' />
 <img width='50' height='50' title='vue' style='margin-left:15px;' src='skill/uni.png' />
-<img width='50' height='50' title='postCss' style='margin-left:15px;' src='skill/postCss.png' />
 <img width='50' height='50' title='git' style='margin-left:15px;' src='skill/git.png' />
 <img width='50' height='50' title='npm' style='margin-left:15px;' src='skill/npm.png' />
 <img width='50' height='50' title='nodejs' style='margin-left:15px;' src='skill/nodejs.png' />
