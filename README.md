@@ -4,7 +4,12 @@ Vue VueUse Vuex  Vue-Router
 HTML CSS3 Less Scss JavaScript ES6  
 Jquery DOM BOM  Flex    
 Bootstrop Element Element-plus Vant echarts  
-Axios Js-Server Mock Swiper Js-Cookies Day.js  
+Axios Js-Server Mock Swiper Js-Cookies Day.js 
+###
+To understand  
+But it can be developed  
+Vue3 React Typescript Canvas...
+###  
 <div style='display:flex'>
 <img width='50' height='50' title='javaScript' style='margin-left:15px;' src='skill/js.png' />
 <img width='50' height='50' title='typeScript' style='margin-left:15px;' src='skill/ts.png' />
@@ -17,17 +22,6 @@ Axios Js-Server Mock Swiper Js-Cookies Day.js
 <img width='50' height='50' title='vue' style='margin-left:15px;' src='skill/uni.png' />
 <img width='50' height='50' title='postCss' style='margin-left:15px;' src='skill/postCss.png' />
 <img width='50' height='50' title='git' style='margin-left:15px;' src='skill/git.png' />
-</div>
-
-###
-To understand  
-But it can be developed  
-Vue3 React Typescript Canvas...
-
-
-### 后端
-
-<div style='display:flex'>
 <img width='50' height='50' title='npm' style='margin-left:15px;' src='skill/npm.png' />
 <img width='50' height='50' title='nodejs' style='margin-left:15px;' src='skill/nodejs.png' />
 <img width='50' height='50' title='express' style='margin-left:15px;' src='skill/express.png' />
